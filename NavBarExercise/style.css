@@ -1,0 +1,11 @@
+.navbar{
+    background-color: black;
+    color: beige;
+    padding: 30px;
+    display: box;
+    text-align: center;
+}
+.item{
+    font-size: 50x;
+    align-items: center;
+}
